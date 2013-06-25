@@ -1,0 +1,266 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tw",
+				"tweets-list"
+			],
+			[
+				"tag",
+				"tag-ux"
+			],
+			[
+				"sele",
+				"selectedFilterValue"
+			],
+			[
+				"twee",
+				"tweets-list"
+			],
+			[
+				"fi",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"mat",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"R",
+				"rgb()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/XDD GON Pencil To Code *****/FRAMEWORK/layout.css",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/XDD GON Pencil To Code *****/FRAMEWORK/typo.css",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/XDD GON Pencil To Code *****/FRAMEWORK/index.html",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/XDD GON Pencil To Code *****/WORK/index.html",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/XDD GON Pencil To Code *****/WORK/layout.css",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/XDD GON Pencil To Code *****/WORK/typo.css",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/R:GA Workshop ***/WORK/index.html",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/R:GA Workshop ***/WORK/style.css",
+		"/Users/jirim/Documents/1.0 RGA - PROJECTS/O2 2013 [LDN]/O2 - RWD Magnum/08_Prototyping/PROTOTYPE/assets/css/bootstrap.min.css",
+		"/Users/jirim/Documents/1.0 RGA - PROJECTS/O2 2013 [LDN]/O2 - RWD Magnum/08_Prototyping/PROTOTYPE/assets/css/bootstrap-responsive.css",
+		"/Users/jirim/Documents/1.0 RGA - PROJECTS/O2 2013 [LDN]/O2 - RWD Magnum/08_Prototyping/PROTOTYPE/Index.html",
+		"/Users/jirim/Documents/1.0 RGA - PROJECTS/O2 2013 [LDN]/O2 - RWD Magnum/08_Prototyping/PROTOTYPE/assets/css/bootstrap-responsive.min.css",
+		"/Users/jirim/Documents/1.0 RGA - PROJECTS/O2 2013 [LDN]/O2 - RWD Magnum/08_Prototyping/PROTOTYPE/assets/css/bootstrap.css",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/3.0 XDD/R:GA Workshop/WORK/style.css",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/3.0 XDD/R:GA Workshop/WORK/index.html",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/2.0 INTERACTIVE/[EB] YUKA/06_Programing/3.0 - QBag WWW/index.html",
+		"/Users/jirim/Desktop/OmniFocus.taskpaper",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/2.0 INTERACTIVE/[EB] YUKA/06_Programing/3.0 - QBag WWW/css/style.css",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/2.0 INTERACTIVE/[EB] YUKA/06_Programing/1.0 - QBag BackUp/index.html",
+		"/Users/jirim/Documents/4.0 GON™ - PROJETCS/2.0 INTERACTIVE/YUKA/WORK/index.html",
+		"/Users/jirim/Documents/1.0 RGA - PROJECTS/Workshop/index.html",
+		"/Users/jirim/Desktop/test.html",
+		"/Users/jirim/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jirim/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jirim/Library/Application Support/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/Users/jirim/Desktop/Wireframes_NoNike/1_0b_Homepage__tablet.html",
+		"/Users/jirim/Desktop/Wireframes_NoNike/Homepage__mobile__Galaxy_S3_.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filetrs",
+			".item",
+			"3.1",
+			"@media",
+			"<section id=\"what\" class=\"section\">",
+			"gate A",
+			"-->",
+			"lable",
+			"clipp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"label"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}
